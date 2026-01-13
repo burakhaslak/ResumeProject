@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\burakhaslak\\source\\repos\\ResumeProjectDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8F53908-69AF-4CA5-8C72-65725EB722E7}|ResumeProjectDemo\\ResumeProjectDemo.csproj|c:\\users\\burakhaslak\\source\\repos\\resumeprojectdemo\\resumeprojectdemo\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C8F53908-69AF-4CA5-8C72-65725EB722E7}|ResumeProjectDemo\\ResumeProjectDemo.csproj|solutionrelative:resumeprojectdemo\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C8F53908-69AF-4CA5-8C72-65725EB722E7}|ResumeProjectDemo\\ResumeProjectDemo.csproj|c:\\users\\burakhaslak\\source\\repos\\resumeprojectdemo\\resumeprojectdemo\\viewcomponent\\defaultviewcomponents\\_defaultexperiencecomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8F53908-69AF-4CA5-8C72-65725EB722E7}|ResumeProjectDemo\\ResumeProjectDemo.csproj|solutionrelative:resumeprojectdemo\\viewcomponent\\defaultviewcomponents\\_defaultexperiencecomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8F53908-69AF-4CA5-8C72-65725EB722E7}|ResumeProjectDemo\\ResumeProjectDemo.csproj|c:\\users\\burakhaslak\\source\\repos\\resumeprojectdemo\\resumeprojectdemo\\views\\shared\\components\\_defaultexperiencecomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C8F53908-69AF-4CA5-8C72-65725EB722E7}|ResumeProjectDemo\\ResumeProjectDemo.csproj|solutionrelative:resumeprojectdemo\\views\\shared\\components\\_defaultexperiencecomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8F53908-69AF-4CA5-8C72-65725EB722E7}|ResumeProjectDemo\\ResumeProjectDemo.csproj|c:\\users\\burakhaslak\\source\\repos\\resumeprojectdemo\\resumeprojectdemo\\views\\shared\\components\\_defaultaboutcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C8F53908-69AF-4CA5-8C72-65725EB722E7}|ResumeProjectDemo\\ResumeProjectDemo.csproj|solutionrelative:resumeprojectdemo\\views\\shared\\components\\_defaultaboutcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C8F53908-69AF-4CA5-8C72-65725EB722E7}|ResumeProjectDemo\\ResumeProjectDemo.csproj|c:\\users\\burakhaslak\\source\\repos\\resumeprojectdemo\\resumeprojectdemo\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8F53908-69AF-4CA5-8C72-65725EB722E7}|ResumeProjectDemo\\ResumeProjectDemo.csproj|solutionrelative:resumeprojectdemo\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8F53908-69AF-4CA5-8C72-65725EB722E7}|ResumeProjectDemo\\ResumeProjectDemo.csproj|c:\\users\\burakhaslak\\source\\repos\\resumeprojectdemo\\resumeprojectdemo\\viewcomponent\\defaultviewcomponents\\_defaultexperiencecomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8F53908-69AF-4CA5-8C72-65725EB722E7}|ResumeProjectDemo\\ResumeProjectDemo.csproj|solutionrelative:resumeprojectdemo\\viewcomponent\\defaultviewcomponents\\_defaultexperiencecomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8F53908-69AF-4CA5-8C72-65725EB722E7}|ResumeProjectDemo\\ResumeProjectDemo.csproj|c:\\users\\burakhaslak\\source\\repos\\resumeprojectdemo\\resumeprojectdemo\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8F53908-69AF-4CA5-8C72-65725EB722E7}|ResumeProjectDemo\\ResumeProjectDemo.csproj|solutionrelative:resumeprojectdemo\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8F53908-69AF-4CA5-8C72-65725EB722E7}|ResumeProjectDemo\\ResumeProjectDemo.csproj|c:\\users\\burakhaslak\\source\\repos\\resumeprojectdemo\\resumeprojectdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8F53908-69AF-4CA5-8C72-65725EB722E7}|ResumeProjectDemo\\ResumeProjectDemo.csproj|solutionrelative:resumeprojectdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,11 +34,33 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\burakhaslak\\source\\repos\\ResumeProjectDemo\\ResumeProjectDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ResumeProjectDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\burakhaslak\\source\\repos\\ResumeProjectDemo\\ResumeProjectDemo\\Program.cs",
+              "RelativeToolTip": "ResumeProjectDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:42:52.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\burakhaslak\\source\\repos\\ResumeProjectDemo\\ResumeProjectDemo\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "ResumeProjectDemo\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\burakhaslak\\source\\repos\\ResumeProjectDemo\\ResumeProjectDemo\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "ResumeProjectDemo\\Views\\Default\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T12:42:17.921Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -52,58 +70,23 @@
               "RelativeDocumentMoniker": "ResumeProjectDemo\\Views\\Shared\\Components\\_DefaultExperienceComponentPartial\\Default.cshtml",
               "ToolTip": "C:\\Users\\burakhaslak\\source\\repos\\ResumeProjectDemo\\ResumeProjectDemo\\Views\\Shared\\Components\\_DefaultExperienceComponentPartial\\Default.cshtml",
               "RelativeToolTip": "ResumeProjectDemo\\Views\\Shared\\Components\\_DefaultExperienceComponentPartial\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-11T13:15:06.691Z"
+              "WhenOpened": "2026-01-13T12:34:02.244Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "_DefaultExperienceComponentPartial.cs",
               "DocumentMoniker": "C:\\Users\\burakhaslak\\source\\repos\\ResumeProjectDemo\\ResumeProjectDemo\\ViewComponent\\DefaultViewComponents\\_DefaultExperienceComponentPartial.cs",
               "RelativeDocumentMoniker": "ResumeProjectDemo\\ViewComponent\\DefaultViewComponents\\_DefaultExperienceComponentPartial.cs",
               "ToolTip": "C:\\Users\\burakhaslak\\source\\repos\\ResumeProjectDemo\\ResumeProjectDemo\\ViewComponent\\DefaultViewComponents\\_DefaultExperienceComponentPartial.cs",
               "RelativeToolTip": "ResumeProjectDemo\\ViewComponent\\DefaultViewComponents\\_DefaultExperienceComponentPartial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T13:14:07.41Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\burakhaslak\\source\\repos\\ResumeProjectDemo\\ResumeProjectDemo\\Views\\Shared\\Components\\_DefaultAboutComponentPartial\\Default.cshtml",
-              "RelativeDocumentMoniker": "ResumeProjectDemo\\Views\\Shared\\Components\\_DefaultAboutComponentPartial\\Default.cshtml",
-              "ToolTip": "C:\\Users\\burakhaslak\\source\\repos\\ResumeProjectDemo\\ResumeProjectDemo\\Views\\Shared\\Components\\_DefaultAboutComponentPartial\\Default.cshtml",
-              "RelativeToolTip": "ResumeProjectDemo\\Views\\Shared\\Components\\_DefaultAboutComponentPartial\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-11T12:59:35.066Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\burakhaslak\\source\\repos\\ResumeProjectDemo\\ResumeProjectDemo\\Views\\Default\\Index.cshtml",
-              "RelativeDocumentMoniker": "ResumeProjectDemo\\Views\\Default\\Index.cshtml",
-              "ToolTip": "C:\\Users\\burakhaslak\\source\\repos\\ResumeProjectDemo\\ResumeProjectDemo\\Views\\Default\\Index.cshtml",
-              "RelativeToolTip": "ResumeProjectDemo\\Views\\Default\\Index.cshtml",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-06T12:33:43.967Z",
+              "WhenOpened": "2026-01-13T12:26:28.816Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DefaultController.cs",
-              "DocumentMoniker": "C:\\Users\\burakhaslak\\source\\repos\\ResumeProjectDemo\\ResumeProjectDemo\\Controllers\\DefaultController.cs",
-              "RelativeDocumentMoniker": "ResumeProjectDemo\\Controllers\\DefaultController.cs",
-              "ToolTip": "C:\\Users\\burakhaslak\\source\\repos\\ResumeProjectDemo\\ResumeProjectDemo\\Controllers\\DefaultController.cs",
-              "RelativeToolTip": "ResumeProjectDemo\\Controllers\\DefaultController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T12:31:11.452Z"
             }
           ]
         }

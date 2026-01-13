@@ -581,3 +581,4 @@ C:\Users\burakhaslak\source\repos\ResumeProjectDemo\ResumeProjectDemo\obj\Debug\
 C:\Users\burakhaslak\source\repos\ResumeProjectDemo\ResumeProjectDemo\obj\Debug\net9.0\compressed\6g8lc0d9wy-v8z6sggvot.gz
 C:\Users\burakhaslak\source\repos\ResumeProjectDemo\ResumeProjectDemo\obj\Debug\net9.0\compressed\lfkqrrawsz-nbycqwwk2r.gz
 C:\Users\burakhaslak\source\repos\ResumeProjectDemo\ResumeProjectDemo\obj\Debug\net9.0\compressed\a0t20tblro-3ob3t6jy7m.gz
+C:\Users\burakhaslak\source\repos\ResumeProjectDemo\ResumeProjectDemo\obj\Debug\net9.0\ResumeProjectDemo.sourcelink.json
